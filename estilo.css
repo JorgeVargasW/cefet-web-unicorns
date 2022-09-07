@@ -1,0 +1,55 @@
+/* cabecalho */
+#cabecalho h1 {
+  font-family: "Lato", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  font-size: 25px;
+  height: 50px;
+}
+#cabecalho h2 {
+  text-transform: uppercase;
+  float: right;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #f27405;
+  color: #fff;
+  font-size: 15px;
+}
+
+/* verdade */
+#verdade {
+  background-color: #387373;
+  margin-top: -10px;
+  padding: 10px;
+}
+#verdade img {
+  border-radius: 10px;
+  float: left;
+  margin: 10px;
+}
+#verdade h2 {
+  margin: 10px;
+}
+#verdade p {
+  text-align: justify;
+}
+.referencia {
+  font-weight: bold;
+  text-align: right !important;
+}
+
+/* hoje */
+#hoje {
+  background-color: #93bfb7;
+  padding: 10px;
+}
+#hoje h2 {
+  text-align: left;
+}
+#imguno img {
+  float: right;
+}
